@@ -8,6 +8,7 @@
 3. paste this github url: `https://github.com/ShadowMyxticsAlt/DiscordSpammer`
 4. Go to the tab `Secrets(Environment variables)`
 5. Create a secret with the key name:`Settings` and for the value parse the following:
+
   ```
   {"Token": "Put your token here", 
   "AutoSend_1": {"ChannelID": "Put your ChannelID here", "Send": "!d bump", "Cooldown": "7200"}, 
@@ -39,9 +40,9 @@
 
 
 ## Caution
-* Warning using a selfbot is against discord TOS and can get you banned if another user reports you. 
+* Warning using a selfbot is against Discord TOS and can get you banned if another user reports you. 
+*W arning using a selfbot is against Replit TOS and can get you banned
 * This was made in a short amount of time for fun and is only for educational purposes.
 
 
 
-# DiscordSpammer
