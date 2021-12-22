@@ -41,7 +41,7 @@
 
 ## Caution
 * Warning using a selfbot is against Discord TOS and can get you banned if another user reports you. 
-*W arning using a selfbot is against Replit TOS and can get you banned
+* Warning using a selfbot is against Replit TOS and can get you banned
 * This was made in a short amount of time for fun and is only for educational purposes.
 
 
